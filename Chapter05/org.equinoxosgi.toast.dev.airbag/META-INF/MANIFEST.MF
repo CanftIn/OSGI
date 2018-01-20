@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Toast Airbag
+Bundle-SymbolicName: org.equinoxosgi.toast.dev.airbag
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Tiger
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: org.equinoxosgi.toast.dev.airbag
+Require-Bundle: org.eclipse.equinox.common;bundle-version="3.7.0"
+Import-Package: org.eclipse.core.runtime.jobs,
+ org.osgi.framework
+Service-Component: OSGI-INF/component.xml

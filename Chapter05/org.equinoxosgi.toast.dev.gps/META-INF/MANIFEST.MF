@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Toast Gps
+Bundle-SymbolicName: org.equinoxosgi.toast.dev.gps
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Tiger
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: org.equinoxosgi.toast.dev.gps
+Import-Package: org.osgi.framework
+Service-Component: OSGI-INF/component.xml
