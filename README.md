@@ -1,2 +1,2 @@
 # OSGI
-come doc about OSGI
+some doc about OSGI
